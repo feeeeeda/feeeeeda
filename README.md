@@ -5,14 +5,14 @@
   
   
   <a href="#" ><img src="https://media2.giphy.com/media/L6fzaiLN5zymY5pdmO/giphy.gif?cid=790b761119b9b02c344be08d52562782c7e5ecd234abf2af&rid=giphy.gif&ct=s" width="180"><p align="left">
-    
+  </a>
   </h1>
   
   <p align="center">  
       🥰 Newbie em programação web 
    📖 Fã de Stephen King  
   ✨ A maluca das métricas depois de tanto ser CS/CX
-  </p></a>
+  </p>
  
 
   
