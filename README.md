@@ -10,7 +10,7 @@
     src="https://media2.giphy.com/media/L6fzaiLN5zymY5pdmO/giphy.gif?cid=790b761119b9b02c344be08d52562782c7e5ecd234abf2af&rid=giphy.gif&ct=s" />
   <br>
   <br>
-  <p align="left">🥰 Newbie em programação web</p>
+  <p align="left">🥰 Newbie em desenvolvimento web</p>
   <p align="left">📖 Fã de Stephen King </p>
   <p align="left">✨ A maluca das métricas depois de tanto ser CS/CX</p>
   <br>
