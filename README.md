@@ -11,8 +11,6 @@
   <br>
   <br>
   <p align="left">🥰 Newbie em desenvolvimento web</p>
-  <p align="left">📖 Fã de Stephen King </p>
-  <p align="left">✨ A maluca das métricas depois de tanto ser CS/CX</p>
   <br>
   <br>
   <hr>
