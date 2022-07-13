@@ -5,9 +5,6 @@
         src="https://readme-typing-svg.herokuapp.com?color=%23F6B5D5&multiline=true&width=600&height=100&lines=Oi%2C+eu+sou+a+Fernanda!+Pode+me+chamar+de+F%C3%AAda!">
     </a>
   </div>
-
-  <img align="right" height="200em"
-    src="https://media2.giphy.com/media/L6fzaiLN5zymY5pdmO/giphy.gif?cid=790b761119b9b02c344be08d52562782c7e5ecd234abf2af&rid=giphy.gif&ct=s" />
   <br>
   <br>
   <p align="left">🥰 Newbie em desenvolvimento web</p>
@@ -35,3 +32,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeeeeda&layout=compact&langs_count=7&theme=bear" />
   </div>
 </div>
+
+<img align="right" height="200em"
+    src="https://media2.giphy.com/media/L6fzaiLN5zymY5pdmO/giphy.gif?cid=790b761119b9b02c344be08d52562782c7e5ecd234abf2af&rid=giphy.gif&ct=s" />
